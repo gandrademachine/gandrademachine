@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 
 
+I'm Gabriel Andrade, computer engineer 
+
+- 🌱 I’m currently learning JS, Vuejs, advanced Python and OpenGL for C++
+- 👯 I’m looking to collaborate on Python, C++ and JS repositpries
+- 📫 How to reach me: gabrielandradedesign@gmail.com(personal and research e-mail) / gabrielandradecode@outlook.com(professional)
 <!--
 **gandrademachine/gandrademachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
