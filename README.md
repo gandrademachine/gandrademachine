@@ -5,7 +5,10 @@ I'm Gabriel Andrade, almost a computer engineer, member of computer vision lab a
 - 🔭 I’m currently working on openMVG, as part of my undergraduate thesis, and Hsystems-analysis (Private project! I will make the project public when I publish the article)
 - 🌱 I’m currently learning JS, Vuejs, advanced Python and OpenGL for C++
 - 👯 I’m looking to collaborate on Python, C++ and JS repositpries
-- 📫 How to reach me: gabrielandradedesign@gmail.com(personal and research e-mail) / gabrielandradecode@outlook.com(professional)
+- 📫 How to reach me: 
+  - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+gabrielandradedesign@gmail.com(personal and research e-mail) 
+  - gabrielandradecode@outlook.com(professional)
 - 🤔 I’m looking for help with any C++ intermediate and advanced material and networking
 - ⚡ Fun fact: I love study linux distros.
 - What I'm currently using:
@@ -23,7 +26,8 @@ I'm Gabriel Andrade, almost a computer engineer, member of computer vision lab a
   - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   - ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
+  - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  - 
 <!--
 **gandrademachine/gandrademachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
