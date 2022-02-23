@@ -1,6 +1,6 @@
 ### Hi there 
 
-I'm Gabriel Andrade, computer engineer 
+I'm Gabriel Andrade, computer engineer
 
 - 🌱 I’m currently learning JS, Vuejs, advanced Python and OpenGL for C++
 - 👯 I’m looking to collaborate on Python, C++ and JS repositpries
