@@ -1,6 +1,6 @@
 ### Hi there 
 
-I'm Gabriel Andrade, almost a computer engineer, member of computer vision lab at IPRJ-UERJ
+I'm Gabriel Andrade, almost a computer engineer
 
 - 🔭 I’m currently working on openMVG, as part of my undergraduate thesis, and Hsystems-analysis (Private project! I will make the project public when I publish the article)
 - 🌱 I’m currently learning JS, Vuejs, advanced Python and OpenGL for C++
