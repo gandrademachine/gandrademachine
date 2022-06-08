@@ -30,7 +30,7 @@ I'm Gabriel Andrade, a computer engineer
 
 
   # stats
-  [![Gandrademachine's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandrademachine)](https://github.com/anuraghazra/github-readme-stats)
+  ![Gabriel Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandrademachine&theme=chartreuse-dark&show_icons=true)
 <!--
 **gandrademachine/gandrademachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
