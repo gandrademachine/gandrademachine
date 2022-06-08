@@ -29,7 +29,8 @@ I'm Gabriel Andrade, a computer engineer
   - ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
-  
+  # stats
+  [![Gandrademachine's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandrademachine)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gandrademachine/gandrademachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
