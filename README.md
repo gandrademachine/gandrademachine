@@ -1,14 +1,13 @@
 ### Hi there 
 
-I'm Gabriel Andrade, a computer engineer
+I'm Gabriel Andrade, a computer engineer and master degree student at Polythecnic Institute of Rio de Janeiro State U. in computational modeling program
 
 - 🔭 I’m currently working on openMVG, with contribution on 2.1 version (check trifocal library), and openHSA (old hsystems-analisys. Private project! I will make the project public when I publish the article)
 - 👯 I’m looking to collaborate on Python, C++ and JS repositories
 - 📫 How to reach me: 
-  - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   - gabrielandradedesign@gmail.com(personal and research e-mail) 
-  - ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
   - gabrielandradecode@outlook.com(professional)
+  - gabriel.andrade@iprj.uerj.br(institutional e-mail)
   - gandrademachine.github.io (still in development)
 - ⚡ Fun fact: I love study linux distros. Here some that I used:
   - 
