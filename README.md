@@ -1,20 +1,16 @@
 ### Hi there 
 
-I'm Gabriel Andrade, a computer engineer and master degree student at Polythecnic Institute of Rio de Janeiro State U. in computational modeling program
+I'm Gabriel Andrade, a computer engineer, master degree student at Polythecnic Institute of Rio de Janeiro State U. in computational modeling program 
+and a EDH player in my free time.
 
 - 🔭 I’m currently working on openMVG, with contribution on 2.1 version (check trifocal library), and openHSA (old hsystems-analisys. Private project! I will make the project public when I publish the article)
-- 👯 I’m looking to collaborate on Python, C++ and JS repositories
+
 - 📫 How to reach me: 
   - gabrielandradedesign@gmail.com(personal and research e-mail) 
   - gabrielandradecode@outlook.com(professional)
   - gabriel.andrade@iprj.uerj.br(institutional e-mail)
   - gandrademachine.github.io (still in development)
-- ⚡ Fun fact: I love study linux distros. Here some that I used:
-  - 
-  - ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-  - ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-  - ![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
-  - ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)  ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white) ![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=for-the-badge&logo=elementary&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) (Current)
+
   
 - What I'm currently using and learning:
   -   
