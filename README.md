@@ -1,6 +1,6 @@
 ### Hi there 
 
-I'm Gabriel Andrade, a computer engineer, master degree student at Polythecnic Institute of Rio de Janeiro State U. in computational modeling program 
+I'm Gabriel Andrade, a computer engineer, master iin computational modeling  at Polythecnic Institute of Rio de Janeiro State U.  
 and a EDH player in my free time.
 
 - I’m contributing openMVG with trinocular geometry (check trifocal library) and building python openHSA (my personal Hamiltonian system analysis python package)
