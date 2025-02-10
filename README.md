@@ -23,7 +23,9 @@ and a EDH player in my free time.
   - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
   - ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-
+- Interesting another links
+ - My Moxfield decks --> https://moxfield.com/users/bielhpp
+ - 
   # stats
   ![Gabriel Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandrademachine&theme=chartreuse-dark&show_icons=true)
 <!--
