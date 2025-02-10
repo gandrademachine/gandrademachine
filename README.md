@@ -24,8 +24,10 @@ and a EDH player in my free time.
   - ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 - Interesting another links
- - My Moxfield decks --> https://moxfield.com/users/bielhpp
- - 
+  -   
+  - My Msc. Dissertation ==> https://www.bdtd.uerj.br:8443/handle/1/23203
+  - My Moxfield decks ==> https://moxfield.com/users/bielhpp
+  
   # stats
   ![Gabriel Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=gandrademachine&theme=chartreuse-dark&show_icons=true)
 <!--
